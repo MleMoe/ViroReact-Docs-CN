@@ -1,0 +1,21 @@
+{
+	"name": "viromedia-docs-cn",
+	"version": "0.0.1",
+	"description": "the Chinese version of viromedia document.",
+	"main": "index.js",
+	"repository": "git@github.com:MleMoe/viromedia-docs-cn.git",
+	"author": "mlemoe",
+	"scripts": {
+		"dev": "pnpm docs:dev",
+		"build": "pnpm docs:build",
+		"serve": "pnpm docs:serve",
+		"docs:dev": "vitepress dev docs",
+		"docs:build": "vitepress build docs",
+		"docs:serve": "vitepress serve docs"
+	},
+	"license": "MIT",
+	"private": false,
+	"devDependencies": {
+		"vitepress": "^0.20.0"
+	}
+}
