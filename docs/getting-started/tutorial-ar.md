@@ -5,6 +5,11 @@ sidebarDepth: 4
 # Tutorial AR
 
 > 原文：[Tutorial AR](https://docs.viromedia.com/docs/tutorial-ar)
+>
+> 在原文基础上有部分修改，如：
+>
+> - class components 用 function components 重写
+> - assets 文件失效链接更新
 
 ## 前置任务
 
@@ -545,7 +550,7 @@ ViroAnimations.registerAnimations({
 - 向场景中的其它对象添加动画。查看我们的[Animation Guide](https://docs.viromedia.com/docs/animation)以获取有关如何完成此操作的信息。
 - 尝试为场景添加阴影和照明。查看[Lighting and Materials](https://docs.viromedia.com/docs/3d-scene-lighting)了解详细信息。
 
-## HelloWorldSceneAR Tutorial - Final Code
+## Final Code
 
 ```js
 import React, { useState } from 'react';
