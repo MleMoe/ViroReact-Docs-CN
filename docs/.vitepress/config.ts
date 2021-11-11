@@ -1,7 +1,7 @@
 import type { UserConfig } from 'vitepress';
 
 const config: UserConfig = {
-  title: 'Viro CN Docs',
+  title: 'ViroReact-AR 中文文档',
   description: 'the Chinese version of viro media/community documents',
   lang: 'zh-CN',
   themeConfig: {
