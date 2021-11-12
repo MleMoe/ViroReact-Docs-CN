@@ -28,6 +28,15 @@ const config: UserConfig = {
               },
             ],
           },
+          {
+            text: '基础',
+            children: [
+              {
+                text: 'Scenes',
+                link: '/basic/scenes',
+              },
+            ],
+          },
         ],
       },
     ],

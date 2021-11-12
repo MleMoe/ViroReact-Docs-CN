@@ -8,7 +8,7 @@ sidebarDepth: 4
 >
 > 在原文基础上有部分修改，如：
 >
-> - class components 用 function components 重写
+> - class component 用 function component 重写
 > - assets 文件失效链接更新
 
 ## 前置任务
