@@ -35,6 +35,10 @@ const config: UserConfig = {
                 text: 'Scenes',
                 link: '/basic/scenes',
               },
+              {
+                text: 'Scene Navigation',
+                link: '/basic/scene-navigation',
+              },
             ],
           },
         ],
