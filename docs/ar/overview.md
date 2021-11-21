@@ -29,7 +29,7 @@ Viro 平台提供了大量组件，开发人员可以利用这些组件来构建
 | [`ViroARImageMarker`](https://docs.viromedia.com/docs/viroarplaneselector)       | 一个 AR 系统检测到给定图像，开发人员能够相对于其放置对象的组件。可以创建出现在真实世界图像上的整个虚拟用户界面。或者让电影海报之类的物体在被检测到时变得生动起来。 |
 | [`ViroARTrackingTargets`](https://docs.viromedia.com/docs/viroartrackingtargets) | 允许用户创建与 `ViroARImageMarker` 一起使用的目标组件。 API 类似于材料。                                                                                           |
 
-如您所见，`ViroARSceneNavigator` 和 `ViroARScene` 替换了 VR 的 `ViroSceneNavigator` 和 `ViroScene`，并添加了更多特定于 AR 的方法和属性。
+如你所见，`ViroARSceneNavigator` 和 `ViroARScene` 替换了 VR 的 `ViroSceneNavigator` 和 `ViroScene`，并添加了更多特定于 AR 的方法和属性。
 
 `ViroARPlane` 和 `ViroARPlaneSelector` 是另外两个仅用于 AR 的组件，它们允许开发人员相对于现实世界中的平面放置内容。
 

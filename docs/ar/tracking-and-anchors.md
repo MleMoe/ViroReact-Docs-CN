@@ -24,7 +24,7 @@ viro AR 和 VR 一样，使用右手坐标系，相机的初始坐标点为 `[0,
 
 ### 自动锚定
 
-要启用自动锚定，请为组件传入 minheight 和 minwidth 属性。在检测到平面时，将在组件（作为子组件）内嵌入您想要显示的内容。
+要启用自动锚定，请为组件传入 minheight 和 minwidth 属性。在检测到平面时，将在组件（作为子组件）内嵌入你想要显示的内容。
 
 当 AR 系统找到与给定尺寸匹配的平面时，将会与现实世界平面固定，并且显示子组件。这些子组件使用平面组件的坐标体系。任何真实世界平面的更新将通过 [`ViroARScene`](https://docs.viromedia.com/docs/viroarscene)的回调函数`onAnchorFound`、 `onAnchorUpdated` 和 `onAnchorRemoved` 反馈给开发人员。
 

@@ -72,6 +72,10 @@ const config: UserConfig = {
                 text: '交互',
                 link: '/ar/interaction',
               },
+              {
+                text: '图像识别',
+                link: '/ar/image-recognition',
+              },
             ],
           },
         ],
