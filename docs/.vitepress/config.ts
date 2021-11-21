@@ -64,6 +64,10 @@ const config: UserConfig = {
                 text: '概述',
                 link: '/ar/overview',
               },
+              {
+                text: '追踪与锚点',
+                link: '/ar/tracking-and-anchors',
+              },
             ],
           },
         ],
