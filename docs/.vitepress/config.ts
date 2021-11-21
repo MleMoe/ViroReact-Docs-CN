@@ -39,6 +39,10 @@ const config: UserConfig = {
                 text: 'Scene Navigation',
                 link: '/basic/scene-navigation',
               },
+              {
+                text: '输入事件',
+                link: '/basic/input-events',
+              },
             ],
           },
         ],
