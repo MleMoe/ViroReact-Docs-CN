@@ -57,6 +57,15 @@ const config: UserConfig = {
               },
             ],
           },
+          {
+            text: 'AR',
+            children: [
+              {
+                text: '概述',
+                link: '/ar/overview',
+              },
+            ],
+          },
         ],
       },
     ],
