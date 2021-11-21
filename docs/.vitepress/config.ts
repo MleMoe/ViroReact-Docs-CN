@@ -47,6 +47,14 @@ const config: UserConfig = {
                 text: '3d 对象',
                 link: '/basic/3d-objects',
               },
+              {
+                text: '资源文件',
+                link: '/basic/assets',
+              },
+              {
+                text: 'UI 控件 & flex 布局',
+                link: '/basic/ui-controls-and-flexbox',
+              },
             ],
           },
         ],
