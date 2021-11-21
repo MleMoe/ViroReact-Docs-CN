@@ -43,6 +43,10 @@ const config: UserConfig = {
                 text: '输入事件',
                 link: '/basic/input-events',
               },
+              {
+                text: '3d 对象',
+                link: '/basic/3d-objects',
+              },
             ],
           },
         ],
