@@ -4,6 +4,7 @@ const config: UserConfig = {
   title: 'ViroReact-AR 中文文档',
   description: 'the Chinese version of viro media/community documents',
   lang: 'zh-CN',
+  base: '/ViroReact-Docs-CN/',
   themeConfig: {
     displayAllHeaders: true,
     sidebar: [
