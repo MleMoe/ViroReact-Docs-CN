@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as c,a as t}from"./app.551f901f.js";const f='{"title":"\u8F93\u5165\u4E8B\u4EF6","description":"","frontmatter":{"sidebarDepth":4},"relativePath":"basic/input-events.md","lastUpdated":1638858231801}',a={},d=t("",6),r=[d];function n(p,s,_,i,l,u){return c(),o("div",null,r)}var b=e(a,[["render",n]]);export{f as __pageData,b as default};
